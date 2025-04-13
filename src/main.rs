@@ -1,4 +1,5 @@
 fn main() {
+    println!("Hello, world!");
     let x = 1;
     let y = 2;
     let z = add(x, y);
